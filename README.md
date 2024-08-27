@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shahzad.ali41410@gmail.com**
 
-- ⚡ Fun fact **I think i am smart**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
