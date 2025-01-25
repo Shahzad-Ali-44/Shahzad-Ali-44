@@ -9,7 +9,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Shahzad Ali</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">A Passionate Professional Software Engineer</h3>
 
 - 📫 How to reach me **shahzad.ali41410@gmail.com**
 
@@ -61,7 +61,9 @@
 
 <h4 align="left">Backend Development:</h4>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="50" style="filter: invert(1);" />
+</a>
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
 
 
