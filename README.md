@@ -1,3 +1,13 @@
+<div align="center">
+  <img alt="Calm Coding Animation" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZmM2k1cHZheDVld2wzdG0zb3pic3J4aHJkMzI0cHI2N2hzeWJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" style="width: 800px; height: auto;">
+</div>
+
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shahzad Ali</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
@@ -23,6 +33,7 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+
 
 
 
@@ -110,6 +121,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Git Bash" width="40" height="40"/>
 </a>
 
+<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76111zon0pv5amu8h4hqh9rcftgoi5ltvnjnwgxfwobc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 <h4 align="left">Version Control:</h4>
@@ -118,6 +130,9 @@
 
 <h4 align="left">OS:</h4>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- </p>
+ </p><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad-ali-44&show_icons=true&locale=en&layout=compact" alt="shahzad-ali-44" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad-ali-44&show_icons=true&locale=en&layout=compact" alt="shahzad-ali-44" /></p><br/><br/>
+
+
+
