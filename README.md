@@ -123,7 +123,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" alt="Git Bash" width="40" height="40"/>
 </a>
 
-<img align="right" alt="Coding Animation" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76111zon0pv5amu8h4hqh9rcftgoi5ltvnjnwgxfwobc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 
 <h4 align="left">Version Control:</h4>
@@ -134,7 +134,7 @@
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  </p><br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad-ali-44&show_icons=true&locale=en&layout=compact" alt="shahzad-ali-44" /></p><br/><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad-ali-44&show_icons=true&locale=en&layout=compact" alt="shahzad-ali-44" /></p><br/>
 
 
-
+<img align="left" alt="Coding Animation" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76111zon0pv5amu8h4hqh9rcftgoi5ltvnjnwgxfwobc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
