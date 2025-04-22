@@ -1,12 +1,3 @@
-<div align="center">
-  <img alt="Calm Coding Animation" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZmM2k1cHZheDVld2wzdG0zb3pic3J4aHJkMzI0cHI2N2hzeWJveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" style="width: 800px; height: auto;">
-</div>
-
-
-
-
-
-
 
 <h1 align="center">Hi 👋, I'm Shahzad Ali</h1>
 <h3 align="center">A Passionate Professional Software Engineer</h3>
@@ -137,4 +128,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzad-ali-44&show_icons=true&locale=en&layout=compact" alt="shahzad-ali-44" /></p><br/>
 
 
-<img align="left" alt="Coding Animation" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b76111zon0pv5amu8h4hqh9rcftgoi5ltvnjnwgxfwobc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
