@@ -9,7 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shahzad-ali-8817632ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzad ali" height="30" width="40" /></a>
-<a href="https://www.instagram.com/designs_by_shahzad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designs_by_shahzad" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aiwithshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designs_by_shahzad" height="30" width="40" /></a>
 <a href="https://www.behance.net/shahzadali85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shahzad ali" height="30" width="40" /></a>
 </p>
 
