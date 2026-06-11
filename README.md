@@ -1,19 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Shahzad Ali</h1>
+<h1 align="center">Hi, I'm Shahzad Ali</h1>
 <h3 align="center">A Passionate Professional Software Engineer</h3>
 
-- 📫 How to reach me **shahzad.ali41410@gmail.com**
+-  How to reach me **shahzad.ali41410@gmail.com**
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shahzad-ali-8817632ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahzad ali" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aiwithshahzad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designs_by_shahzad" height="30" width="40" /></a>
 <a href="https://www.behance.net/shahzadali85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shahzad ali" height="30" width="40" /></a>
 </p>
 
-## 🚀 Skills & Technologies
+##  Skills & Technologies
 
 <h4 align="left">Programming Languages:</h4>
 
